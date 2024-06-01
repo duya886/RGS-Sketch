@@ -1,6 +1,6 @@
 ## **Notification**
 
-**The datasets in our experiments are [CAIDA-2016](http://www.caida.org/data/passive/passive_2016_dataset.xml), [CAIDA-2019](http://www.caida.org/data/passive/passive_2019_dataset.xml), [eCommerce behavior data from a multi category store](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store), and [eCommerce events history in a cosmetics shop](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop).** We do not provide the data files of CAIDA dataset here due to the license limit. We provide a Python code file and two example files to show how we generate the input binary data files of our codes.
+**The datasets in our experiments are [CAIDA-2016](http://www.caida.org/data/passive/passive_2016_dataset.xml), [CAIDA-2019](http://www.caida.org/data/passive/passive_2019_dataset.xml), [eCommerce behavior data from a multi category store](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store), and [eCommerce events history in a cosmetics shop](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop).** We do not provide CAIDA datasets due to the license limit. We provide the binary data files of the two eCommerce datasets. Besides, we provide a Python code file to show how we encode the <flowid, element> records into our input binary data files.
 
 ## **Data Format**
 
